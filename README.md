@@ -1,14 +1,3 @@
----
-title: Proyecto SuperTienda
-lightbox_captions: true
-categories: [Blogging, PowerBI]
-tags: [dashboard, typography, powerbi, homelab]
-published: true
-image:
-  path: /gallery/img/img01.png
-  hide: false
-  show: false
----
 # Proyecto SuperTienda
 ![Imagen del proyecto](/gallery/img/img01.png)
 
