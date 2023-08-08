@@ -1,16 +1,16 @@
 <style>
-.embed-container {
+.embed__container {
   position: relative;
   padding-bottom: 56.25%;
   height: 0;
   overflow: hidden;
 }
-.embed-container iframe {
+.embed__container iframe {
   position: absolute;
   top:0;
   left: 0;
-  width: 100%;
-  height: 100%;
+  width: 75%;
+  height: 75%;
 }
 </style>
 # Proyecto SuperTienda
@@ -34,6 +34,9 @@ Código HTML que puede pegar en un sitio web:
 
 Proyecto SuperTienda es el proyecto final de evaluación del curso de Power Bi, módulo 8 del curso Análisis de Datos - Talento Digital.  Incluye la información de ventas de la Super Tienda para el período 2017-2020. Los informes están expresados en USD y CLP. Incluye segmentaciones, filtros y objetos  intereactivos dinámicos que permiten explorar y hacer distintintos análisis sobre la información de ventas de la Super Tienda.
 
+El modelo de datos se creó a partir de diferentes fuentes de datos: Archivos de Excel, CSV, PDF , una carpeta comprimida y páginas web de SII y Emol.
+Los archivos de Excel utilizados fueron: Maestros, TablasAuxiliares y los archivos de Pedidos por año y mes con datos del 2017 al 2020, que estaban contenidos en la carpeta comprimida PEDIDOS.
+
 <!-- 
 ## Código Insertado
 
@@ -53,22 +56,15 @@ Este proyecto permitió poner en practica el contenido impartido en el Módulo 8
 -->
 [![Power BI](https://img.shields.io/badge/PowerBi-F7DF1E?style=for-the-badge&logo=powerbi&logoColor=black)](https://es.wikipedia.org/wiki/PowerBI)
 
-## Vistas del proyecto  :computer:  
+## Vistas del proyecto 🔭
 
 Capturas de Pantalla: [Ir a galeria.](https://melvincolmenares.github.io/proyectosupertienda/gallery/){:target="_blank"}
-<!-- <div class="embed-container">
-    <iframe src="https://melvincolmenares.github.io/gallery/" frameborder="0" allowfullscreen></iframe>
-</div>
--->
-
-<div class="embed-container">
+<div class="embed__container">
     <iframe src="https://melvincolmenares.github.io/proyectosupertienda/gallery/" frameborder="0" allowfullscreen></iframe>
 </div>
 
-
 ## Autor ✒️
 ## **Melvin Colmenares**
-
 - [https://www.linkedin.com/in/melvincolmenares/](https://www.linkedin.com/in/melvincolmenares)
 - *melvincr@gmail.com*
 - [https://github.com/MelvinColmenares](https://github.com/MelvinColmenares])
