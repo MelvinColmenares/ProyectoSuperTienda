@@ -40,15 +40,14 @@ Este proyecto permitió poner en practica el contenido impartido en el Módulo 8
 
 ## Vistas del proyecto  :computer:  
 
-Capturas de Pantalla: [Ir a galeria.](https://melvincolmenares.github.io/ProyectoSuperTienda/gallery/){:target="_blank"}
+Capturas de Pantalla: [Ir a galeria.](https://melvincolmenares.github.io/proyectosupertienda/gallery/){:target="_blank"}
 <!-- <div class="embed-container">
     <iframe src="https://melvincolmenares.github.io/gallery/" frameborder="0" allowfullscreen></iframe>
 </div>
 -->
 
-
 <div class="embed-container">
-    <iframe src="https://melvincolmenares.github.io/ProyectoSuperTienda/gallery/" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://melvincolmenares.github.io/proyectosupertienda/gallery/" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
@@ -56,10 +55,10 @@ Capturas de Pantalla: [Ir a galeria.](https://melvincolmenares.github.io/Proyect
 ## **Melvin Colmenares**
 
 - [https://www.linkedin.com/in/melvincolmenares/](https://www.linkedin.com/in/melvincolmenares)
-
 - *melvincr@gmail.com*
-
 - [https://github.com/MelvinColmenares](https://github.com/MelvinColmenares])
+
+- [Porfolio Web: https://melvincolmenares.github.io](https://melvincolmenares.github.io/)
 
 <!--
 Here are some ideas to get you started:
