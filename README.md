@@ -1,3 +1,18 @@
+<style>
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+}
+.embed-container iframe {
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
 # Proyecto SuperTienda
 ![Imagen del proyecto](/gallery/img/img01.png)
 
@@ -58,7 +73,7 @@ Capturas de Pantalla: [Ir a galeria.](https://melvincolmenares.github.io/proyect
 - *melvincr@gmail.com*
 - [https://github.com/MelvinColmenares](https://github.com/MelvinColmenares])
 
-- [Porfolio Web: https://melvincolmenares.github.io](https://melvincolmenares.github.io/)
+- [Portafolio Web: https://melvincolmenares.github.io](https://melvincolmenares.github.io/)
 
 <!--
 Here are some ideas to get you started:
