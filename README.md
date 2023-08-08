@@ -1,18 +1,3 @@
-<style>
-.embed__container {
-  position: relative;
-  padding-bottom: 56.25%;
-  height: 0;
-  overflow: hidden;
-}
-.embed__container iframe {
-  position: absolute;
-  top:0;
-  left: 0;
-  width: 75%;
-  height: 75%;
-}
-</style>
 # Proyecto SuperTienda
 ![Imagen del proyecto](/gallery/img/img01.png)
 
