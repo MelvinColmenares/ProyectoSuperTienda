@@ -1,7 +1,7 @@
 ## SuperTienda
 <img src="https://melvincolmenares.github.io/proyectosupertienda/gallery/img/img01.png"  width="60%">
 
-## Muestra en línea - [Dashboard Proyecto SuperTienda](https://app.powerbi.com/view?r=eyJrIjoiYmFmYzVhNTctMzFiNi00OWEyLTgwOTctZGYzNjY5NmUzYWU4IiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9 "Informe en vivo")
+## Muestra en línea  [Dashboard Proyecto SuperTienda](https://app.powerbi.com/view?r=eyJrIjoiYmFmYzVhNTctMzFiNi00OWEyLTgwOTctZGYzNjY5NmUzYWU4IiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9 "Informe en vivo")
 
 <!--  ProyectoSuperTienda.PBIX
 
@@ -45,11 +45,9 @@ Capturas de Pantalla: [Ir a galeria.](https://melvincolmenares.github.io/proyect
 
 <iframe src="https://melvincolmenares.github.io/proyectosupertienda/gallery/" frameborder="0" allowfullscreen></iframe>
 
-## GitHub Pages
-- [Sitio Web](https://melvincolmenares.github.io/proyectosupertienda/ "website")
+## GitHub Pages - [Sitio Web](https://melvincolmenares.github.io/proyectosupertienda/ "website")
   
-## Repositorio
-- [Repositorio](https://github.com/MelvinColmenares/proyectosupertienda/ "Repositorio")
+## Repositorio - [Repositorio](https://github.com/MelvinColmenares/proyectosupertienda/ "Repositorio")
  
 ## Autor ✒️
 ## **Melvin Colmenares**
