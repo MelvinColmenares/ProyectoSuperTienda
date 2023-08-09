@@ -1,8 +1,8 @@
 ## SuperTienda
 <img src="https://melvincolmenares.github.io/proyectosupertienda/gallery/img/img01.png"  width="60%">
+
 ## Muestra en línea
 - [Dashboard Proyecto SuperTienda](https://app.powerbi.com/view?r=eyJrIjoiYmFmYzVhNTctMzFiNi00OWEyLTgwOTctZGYzNjY5NmUzYWU4IiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9 "Informe en vivo")
-
 
 <!--  ProyectoSuperTienda.PBIX
 
@@ -41,18 +41,17 @@ Este proyecto permitió poner en practica el contenido impartido en el Módulo 8
 -->
 [![Power BI](https://img.shields.io/badge/PowerBi-F7DF1E?style=for-the-badge&logo=powerbi&logoColor=black)](https://es.wikipedia.org/wiki/PowerBI)
 
-## GitHub Pages
-- [Sitio Web](https://melvincolmenares.github.io/proyectosupertienda/ "website")
-  
-## Repositorio
- [Repositorio](https://github.com/MelvinColmenares/proyectosupertienda/ "Repositorio")
- 
 ## Vistas del proyecto 🔭
 Capturas de Pantalla: [Ir a galeria.](https://melvincolmenares.github.io/proyectosupertienda/gallery/){:target="_blank"}
 
 <iframe src="https://melvincolmenares.github.io/proyectosupertienda/gallery/" frameborder="0" allowfullscreen></iframe>
 
-
+## GitHub Pages
+- [Sitio Web](https://melvincolmenares.github.io/proyectosupertienda/ "website")
+  
+## Repositorio
+- [Repositorio](https://github.com/MelvinColmenares/proyectosupertienda/ "Repositorio")
+ 
 ## Autor ✒️
 ## **Melvin Colmenares**
 - [https://www.linkedin.com/in/melvincolmenares/](https://www.linkedin.com/in/melvincolmenares)
