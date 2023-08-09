@@ -6,11 +6,8 @@
 ## Muestra en línea
 - [Dashboard Proyecto SuperTienda](https://app.powerbi.com/view?r=eyJrIjoiYmFmYzVhNTctMzFiNi00OWEyLTgwOTctZGYzNjY5NmUzYWU4IiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9 "Informe en vivo")
 
-## GitHub Pages website
-- [Sitio Web](https://melvincolmenares.github.io/proyectosupertienda/ "website")
-  
-## Repositorio GitHub
-- [Repositorio](https://github.com/MelvinColmenares/proyectosupertienda/ "Repositorio")
+## GitHub Pages / Repositorio
+- [Sitio Web](https://melvincolmenares.github.io/proyectosupertienda/ "website") [Repositorio](https://github.com/MelvinColmenares/proyectosupertienda/ "Repositorio")
 
 <!--  ProyectoSuperTienda.PBIX
 
