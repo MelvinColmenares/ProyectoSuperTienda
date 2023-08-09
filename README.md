@@ -1,8 +1,14 @@
 ## SuperTienda
-![Imagen del proyecto](https://melvincolmenares.github.io/proyectosupertienda/gallery/img/img01.png)
+![Imagen del proyecto](https://melvincolmenares.github.io/proyectosupertienda/gallery/img/img01.png  width="60%")
 
-## Ejemplo en vivo
+## Muestra en línea
 - [Dashboard Proyecto SuperTienda](https://app.powerbi.com/view?r=eyJrIjoiYmFmYzVhNTctMzFiNi00OWEyLTgwOTctZGYzNjY5NmUzYWU4IiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9 "Informe en vivo")
+- 
+## GitHub-Page
+- [Sitio Web](https://melvincolmenares.github.io/proyectosupertienda/ "Sitio Web")
+- 
+## Repositorio GitHub
+- [Repositorio](https://github.com/MelvinColmenares/proyectosupertienda/ "Repositorio")
 
 <!--  ProyectoSuperTienda.PBIX
 
