@@ -1,5 +1,7 @@
 ## SuperTienda
-<img src="https://melvincolmenares.github.io/proyectosupertienda/gallery/img/img01.png"  width="40%">
+<p align="center">
+    <img src="https://melvincolmenares.github.io/proyectosupertienda/gallery/img/img01.png"  width="50%">
+</p>
 
 ## Muestra en línea
 - [Dashboard Proyecto SuperTienda](https://app.powerbi.com/view?r=eyJrIjoiYmFmYzVhNTctMzFiNi00OWEyLTgwOTctZGYzNjY5NmUzYWU4IiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9 "Informe en vivo")
