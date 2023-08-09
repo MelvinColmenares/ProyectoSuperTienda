@@ -1,6 +1,12 @@
 ## SuperTienda
 ![Imagen del proyecto](https://melvincolmenares.github.io/proyectosupertienda/gallery/img/img01.png)
 
+<img src="https://melvincolmenares.github.io/proyectosupertienda/gallery/img/img01.png"  width="600"  height="400">
+
+Fuente: https://www.iteramos.com/pregunta/89805/cambiar-el-tamano-de-la-imagen-en-markdown-en-gitlab
+
+Fuente: https://www.iteramos.com/pregunta/89805/cambiar-el-tamano-de-la-imagen-en-markdown-en-gitlab
+
 ## Muestra en línea
 - [Dashboard Proyecto SuperTienda](https://app.powerbi.com/view?r=eyJrIjoiYmFmYzVhNTctMzFiNi00OWEyLTgwOTctZGYzNjY5NmUzYWU4IiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9 "Informe en vivo")
 
