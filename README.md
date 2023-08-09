@@ -42,10 +42,7 @@ Este proyecto permitió poner en practica el contenido impartido en el Módulo 8
 [![Power BI](https://img.shields.io/badge/PowerBi-F7DF1E?style=for-the-badge&logo=powerbi&logoColor=black)](https://es.wikipedia.org/wiki/PowerBI)
 
 ## Vistas del proyecto 🔭
-<!--
 Capturas de Pantalla: [Ir a galeria.](https://melvincolmenares.github.io/proyectosupertienda/gallery/){:target="_blank"}
--->
-Capturas de Pantalla: [Ir a galeria.](https://melvincolmenares.github.io/proyectosupertienda/gallery/)
 
 <iframe src="https://melvincolmenares.github.io/proyectosupertienda/gallery/" frameborder="0" allowfullscreen></iframe>
 
