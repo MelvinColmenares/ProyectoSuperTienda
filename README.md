@@ -47,7 +47,7 @@ Capturas de Pantalla: [Ir a galeria.](https://melvincolmenares.github.io/proyect
 -->
 Capturas de Pantalla: [Ir a galeria.](https://melvincolmenares.github.io/proyectosupertienda/gallery/)
 
-    <iframe src="https://melvincolmenares.github.io/proyectosupertienda/gallery/" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://melvincolmenares.github.io/proyectosupertienda/gallery/" frameborder="0" allowfullscreen></iframe>
 
 
 ## Autor ✒️
