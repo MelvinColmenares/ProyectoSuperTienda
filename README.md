@@ -1,6 +1,6 @@
 ## SuperTienda
 <p align="center">
-    <img src="https://melvincolmenares.github.io/proyectosupertienda/gallery/img/img01.png"  width="50%">
+<img src="https://melvincolmenares.github.io/proyectosupertienda/gallery/img/img01.png"  width="50%">
 </p>
 
 ## Muestra en línea
