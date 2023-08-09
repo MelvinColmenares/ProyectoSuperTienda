@@ -45,9 +45,11 @@ Capturas de Pantalla: [Ir a galeria.](https://melvincolmenares.github.io/proyect
 
 <iframe src="https://melvincolmenares.github.io/proyectosupertienda/gallery/" frameborder="0" allowfullscreen></iframe>
 
-## GitHub Pages - [Sitio Web](https://melvincolmenares.github.io/proyectosupertienda/ "website")
+## GitHub Pages 
+- [Sitio Web](https://melvincolmenares.github.io/proyectosupertienda/ "website")
   
-## Repositorio - [Repositorio](https://github.com/MelvinColmenares/proyectosupertienda/ "Repositorio")
+## Repositorio 
+- [Repositorio GitHub](https://github.com/MelvinColmenares/proyectosupertienda/ "Repositorio")
  
 ## Autor ✒️
 ## **Melvin Colmenares**
